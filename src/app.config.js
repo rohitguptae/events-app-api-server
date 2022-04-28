@@ -4,7 +4,7 @@
  * DO NOT store state here - must be part of a stateless service
  */
 class AppConfig {
-    team = 'Cloud BootCamp Team';
+    team = 'Cloud BootCamp Team - Fist Commit';
     version = '1.0.0';
 }
 module.exports = AppConfig;
